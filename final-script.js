@@ -1,4 +1,4 @@
-// DOM LAB REDO 
+// DOM LAB FINAL 
 
 // Menu data structure
 var menuLinks = [
